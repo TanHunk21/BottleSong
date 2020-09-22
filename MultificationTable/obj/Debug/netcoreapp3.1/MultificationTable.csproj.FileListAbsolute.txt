@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\ForLoops\MultificationTable\bin\Debug\netcoreapp3.1\MultificationTable.exe
+C:\Users\opilane\source\repos\ForLoops\MultificationTable\bin\Debug\netcoreapp3.1\MultificationTable.deps.json
+C:\Users\opilane\source\repos\ForLoops\MultificationTable\bin\Debug\netcoreapp3.1\MultificationTable.runtimeconfig.json
+C:\Users\opilane\source\repos\ForLoops\MultificationTable\bin\Debug\netcoreapp3.1\MultificationTable.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\ForLoops\MultificationTable\bin\Debug\netcoreapp3.1\MultificationTable.dll
+C:\Users\opilane\source\repos\ForLoops\MultificationTable\bin\Debug\netcoreapp3.1\MultificationTable.pdb
+C:\Users\opilane\source\repos\ForLoops\MultificationTable\obj\Debug\netcoreapp3.1\MultificationTable.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\ForLoops\MultificationTable\obj\Debug\netcoreapp3.1\MultificationTable.AssemblyInfo.cs
+C:\Users\opilane\source\repos\ForLoops\MultificationTable\obj\Debug\netcoreapp3.1\MultificationTable.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\ForLoops\MultificationTable\obj\Debug\netcoreapp3.1\MultificationTable.dll
+C:\Users\opilane\source\repos\ForLoops\MultificationTable\obj\Debug\netcoreapp3.1\MultificationTable.pdb
+C:\Users\opilane\source\repos\ForLoops\MultificationTable\obj\Debug\netcoreapp3.1\MultificationTable.genruntimeconfig.cache
